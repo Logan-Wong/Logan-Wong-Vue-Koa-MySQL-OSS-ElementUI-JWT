@@ -1,0 +1,30 @@
+{
+  "id": "2373841",
+  "name": "onemovie",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20346173",
+      "name": "thumb-up-o",
+      "font_class": "thumb-up-o",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "20346189",
+      "name": "thumb-up",
+      "font_class": "thumb-up",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "19877131",
+      "name": "名校保录-2",
+      "font_class": "yidongduan_dianzan",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    }
+  ]
+}

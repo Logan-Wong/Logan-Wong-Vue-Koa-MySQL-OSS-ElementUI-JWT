@@ -1,0 +1,59 @@
+/* 全局样式表 */
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+/* 未访问链接*/
+a:link {
+    color:#E50914;
+}
+/* 已访问链接 */
+a:visited {
+    color:#E50914;
+}
+/* 鼠标移动到链接上 */
+a:hover {
+    color:#fff;
+}
+/* 鼠标点击时 */
+a:active {
+    color:#fff;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+ul li {
+    list-style: none;
+}
+/* 双伪元素清除浮动 */
+.clearfix:before,
+.clearfix:after { 
+  content:"";
+  display:table; 
+}
+.clearfix:after {
+ clear:both;
+}
+.clearfix {
+  *zoom:1;
+}
+/* 面包屑导航 */
+/* .el-breadcrumb {
+    margin-bottom: 15px;
+} */
+/* 完整分页 */
+/* .el-pagination {
+    margin-top: 20px;
+} */
+/* 解决级联选择器下拉框过高问题 */
+/* .el-cascader-panel {
+    height: 200px;
+} */
